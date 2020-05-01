@@ -7,7 +7,7 @@ Autocompletes IP addesses and hostnames for zsh from a set nmap gnmap file or si
 Copy the plugin to the Oh-My-ZSH custom plugin directory
 ```
 cd ~/.oh-my-zsh/custom/plugins
-git clone   ip_autocomplete
+git clone https://github.com/Lejurn/ip_autocomplete.plugin.zsh ip_autocomplete
 vim ~/.zshrc
 ```
 
